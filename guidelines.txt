@@ -1,0 +1,19 @@
+Guidelines	Hand Evaluation	For hand evaluation, what are the 3 "fixed" (always present) elements of every hand.	1) High Card Points, 2) Distribution, 3) Losing Trick Count (LTC)
+Guidelines	Hand Evaluation	There are many variable "it depends" elements to bridge hand evaluation.  Think of 5 "on the fly" elements that effect hand evaluation.	Bidding so far, partner agreements, vulnerability, chair, short suits, suit quality, stoppers
+Guidelines	Hand Evaluation	After a suit fit is found, hand evaluation uses Playing Points (PPs). PPs equal ______ + ______.	HCP, "shortage points"
+Guidelines	Hand Evaluation	For "shortage points", add how many points for a void, a singleton, or a doubleton?	5, 3, 1
+Guidelines	Hand Evaluation	When calculating Losing Trick Count (LTC), what is the maximum number of Losing Tricks per suit?	3
+Guidelines	Hand Evaluation	For Losing Trick Count (LTC), generally _____ LTC to open, ______ LTC respond.	7, 8
+Guidelines	Hand Evaluation	For LTC, a suit with only a weak Queen, like Qxxx, add ______ LTC.	1/2
+Guidelines	Hand Evaluation	Combined hands, ______ points to make game in a Major or NoTrump.	25
+Guidelines	Hand Evaluation	Combined hands, ______ points to make a small slam (12 tricks)	33
+Guidelines	Hand Evaluation	Combined hands, ______ points for game in a minor, and ______ a grand slam.	29, 37
+Guidelines	Hand Evaluation	Combined hands, in NT count _____ only, add ______ in a suit contract.	HCP, shortage points
+Guidelines	Hand Evaluation	Four factors that could encourage you to bid even though a little short of HCP that Partner would expect:	low LTC, not vulnerable, third chair, "Balancing" chair
+Guidelines	Hand Evaluation	What does "5 - 5, come alive" mean in hand evalution?	There is playing strength in very distributional hands, like 2 5-card suits.  Get involved in the bidding if you can
+Guidelines	General Guidelines	If Responder has not passed or bid NT, her new suit is ______. This is known as the ______ of bidding.	forcing, Golden Rule
+Guidelines	General Guidelines	A "Golden Fit" is ______ trumps in the combined hands.	8 or more
+Guidelines	General Guidelines	The ______ says that the # of total tricks = the total # of trumps in the combined hands.	Law of Total Tricks
+Guidelines	General Guidelines	With 2 equal suits, open the ______.	Higher ranking suit
+Guidelines	General Guidelines	Deciding which suit to name first, in responses and rebids ______.	Bid up the ladder
+Guidelines	General Guidelines	The ______ says that the total number of tricks that can be won in a suit contract is equal to the total number of trump in the combined hands.	Law of Total Tricks
