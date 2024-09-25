@@ -1,0 +1,18 @@
+Defensive Play	Defense, Opening Lead	The preferred lead against both suits and NT, is to lead _____	Partner's bid suit	
+Defensive Play	Defense, Opening Lead	Against a NT bid, the second preferred opening lead is top of a ______	3-card honor sequence	
+Defensive Play	Defense, Opening Lead	Against a NT bid, the third preferred opening lead is the top of touching honors from a ______	broken sequence	
+Defensive Play	Defense, Opening Lead	Against a NT bid, the fourth preferred opening lead is the ______ down from your longest and strongest suit.	fourth	
+Defensive Play	Defense, Opening Lead	The opening lead of the fourth down vs NT helps Partner figure out Declarer's holding in that suit by the ______	Rule of 11	
+Defensive Play	Defense, Opening Lead	With nothing better vs NT, if an honorless suit is chosen, lead ____	M.U.D., 2nd down 	
+Defensive Play	Defense, Opening Lead	Against a NT bid, if there is an equal choice between two suits, lead the ______.	major	
+Defensive Play	Defense, Opening Lead	Against a suit contract, if Partner hasn't bid, the preferred lead is a ______	singleton 	
+Defensive Play	Defense, Opening Lead	The third preferred lead vs a suit bid is from an ______, even a two-card one.	honor sequence	
+Defensive Play	Defense, Opening Lead	A golden rule against a suit bid is to never under lead an _____	Ace	
+Defensive Play	Defense, Opening Lead	Vs a suit bid, if an honorless suit is chosen, lead ____. It's the same for Nt and suit defense.	M.U.D., 2nd down 	
+Defensive Play	Defense, Opening Lead	If you think opponent's contract is a sacrifice, often _____	lead trump	
+Defensive Play	Defensive Play	The First Law of Defense is do NOT promote tricks in the ______	dummy	
+Defensive Play	Defensive Play	The Second Law of Defense is lead to ______.	weakness 	
+Defensive Play	Defensive Play	There are certainly exceptions but the standard play is second hand ______ and third hand ______.	low, high	
+Defensive Play	Defensive Play	Cover a(n) ______ honor with an honor.	unsupported	
+Defensive Play	Defensive Play	If an honor is led through you from a sequence of honors, try to cover the ______ one.	last	
+Defensive Play	Defensive Play	Opponents bid 1NT-3NT. Partner leads the 2♠. Partner surely has how many Spades?	four	

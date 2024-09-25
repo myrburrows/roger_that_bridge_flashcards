@@ -1,4 +1,4 @@
-Guidelines	Hand Evaluation	For hand evaluation, what are the 3 "fixed" (always present) elements of every hand.	1) High Card Points, 2) Distribution, 3) Losing Trick Count (LTC)
+Guidelines	Hand Evaluation	For hand evaluation, what are the 3 "fixed" (always present) elements of every hand.	1) High Card Points, 2) Distribution, 3) Losing Trick Count (LTC)	https://en.wikipedia.org/wiki/Losing-Trick_Count
 Guidelines	Hand Evaluation	There are many variable "it depends" elements to bridge hand evaluation.  Think of 5 "on the fly" elements that effect hand evaluation.	Bidding so far, partner agreements, vulnerability, chair, short suits, suit quality, stoppers
 Guidelines	Hand Evaluation	After a suit fit is found, hand evaluation uses Playing Points (PPs). PPs equal ______ + ______.	HCP, "shortage points"
 Guidelines	Hand Evaluation	For "shortage points", add how many points for a void, a singleton, or a doubleton?	5, 3, 1

@@ -1,0 +1,11 @@
+2+-Level Opening	2+-Level Opening	2C (a strong, artificial, and forcing opener) shows 22+ HCP or ___	9+ playing tricks with no help from Partner	
+2+-Level Opening	2+-Level Opening	Opening 2D, or 2H, or 2S (preempt, "weak-2"): ______ HCP, a _____ suit	5-11, 6-card strong 	
+2+-Level Opening	2+-Level Opening	You need a "strong" suit to open a weak-2: ___	2 of the top 3, or 3 of the top 5	
+2+-Level Opening	2+-Level Opening	Opening a weak-3 shows a ___ card suit, a weak-4 shows ___	7; 8	
+2+-Level Opening	2+-Level Opening	Sometimes you open a weak-2 with a _____ ___-card suit.	soft 7	
+2+-Level Opening	2+-Level Responses	After Partner's 2C opening, we respond with the ______. This point count system must be ______.	"step" system, alerted	
+2+-Level Opening	2+-Level Responses	In our "2C response system", 2D shows ______ HCP, 2H shows ______, and 2S shows ______.	0 to 3, 4 to 6, 7 to 9	
+2+-Level Opening	2+-Level Responses	In our "2C response system", a 2NT response shows ______ HCP	10+	
+2+-Level Opening	2+-Level Responses	2C opener is game forcing unless responder bids _____, then rebids _____. 	2D, then 3C rebid	
+2+-Level Opening	2+-Level Responses	The 2C opener should show her real ______ on her rebid, or ______ if balanced and 22-24 HCP.	suit, NoTrump	
+2+-Level Opening	2+-Level Responses	In response to a weak-2 opener, only  ____  is forcing, and a new suit is ____	2NT, "response only, no force" (RONF)	

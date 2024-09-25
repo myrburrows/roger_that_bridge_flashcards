@@ -1,0 +1,25 @@
+Opening a Minor	1-Of-A-Minor Opening	HCP range, same as 1 of a major.	12-21	
+Opening a Minor	1-Of-A-Minor Opening	1 of a minor opening could be light in _______ or ______.	3rd chair, highly distributional	
+Opening a Minor	1-Of-A-Minor Opening	1D opener promises ______ Diamonds, except a ______ hand.	4+, 4-4-3-2	
+Opening a Minor	1-Of-A-Minor Opening	A 1C opening promises ______ Clubs.	3+	
+Opening a Minor	1-Of-A-Minor Opening	Minimum opener and non-forcing response, rebid ___.	pass	
+Opening a Minor	1-Of-A-Minor Opening	You open 1-of-a-minor with 16-17 HCP. To a response of 1 of a major, rebid ______.	limit raise, new suit, or 2NT	
+Opening a Minor	1-Of-A-Minor Opening	With a 17+ HCP 1-of-a-minor opener, you can rebid ______.	jump shift, reverse	
+Opening a Minor	1-Of-A-Minor Opening	Expected minimum length for a 1-of-a-minor opening	3 Clubs or 4 Diamonds	
+Opening a Minor	1-Of-A-Minor Responses	A response of 2-of-a-minor over 1-of-a-minor promises ______ PPs and ______,	6-10, 4 Diamonds or 5 Clubs	
+Opening a Minor	1-Of-A-Minor Responses	A response of 1H over 1-of-a-minor shows ______ HCP and ______ Hearts.	6+, 4 or more	
+Opening a Minor	1-Of-A-Minor Responses	A response of 1S over 1-of-a-minor shows ______ HCP and ______ Spades and ______.	6+, 4 or more, no 4+Hearts	
+Opening a Minor	1-Of-A-Minor Responses	"Walsh" style means bypass 1 Diamond, bid 1-of-a- 4-card major with a ______.	one-bid hand	
+Opening a Minor	1-Of-A-Minor Responses	1D over 1C shows ______ HCP and ______ Diamonds (beware of Walsh)	6+ HCP, 4+D	
+Opening a Minor	1-Of-A-Minor Responses	A response of 2C over 1D shows _____ HCP and ______ Clubs.	10+, 5+	
+Opening a Minor	1-Of-A-Minor Responses	Any _______ by responder is a weak hand with a 6+ suit.  This must be alerted.	Jump Shift	
+Opening a Minor	1-Of-A-Minor Responses	Avoid bidding _____ over 1C if you can. The play will be wrong-sided.	1NT	
+Opening a Minor	1-Of-A-Minor Responses	Responding 1-of-a-minor - 3-of-a-minor is an ______ "limit raise".	invitational	
+Opening a Minor	1-Of-A-Minor Responses	Responding 1-of-a-minor - 3-of-a-minor shows ______ PPs and ______ trump.	10-12, 5+	
+Opening a Minor	1-Of-A-Minor Responses	A Double Raise response after opponents overcall shows ______ PPs and _____ of the minor.	5-7, 5+	
+Opening a Minor	1-Of-A-Minor Responses	A cuebid over opponent's overcall (like 1C - {1H} - 2H) shows a ______.	Limit raise or better	
+Opening a Minor	1-Of-A-Minor Responses	Often skip 1D with 4 of them (Walsh).  After 1C, skip 1D on ___ with a ______.	1-bid hand, 4-card major	
+Opening a Minor	1-Of-A-Minor Responses	1NT shows _____ HCP and ______, but avoid 1NT over 1C	6-9, no fit	
+Opening a Minor	1-Of-A-Minor Responses	2NT shows _______ HCP, and is _______	11-12, invitational	
+Opening a Minor	1-Of-A-Minor Responses	When responding 2NT to 1-of-a-minor, it shows _______ HCP and ______.	11-12, no 4+ card major	
+Opening a Minor	1-Of-A-Minor Responses	3NT shows _______ HCP and no 4-card major.	13-17	
