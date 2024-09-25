@@ -61,7 +61,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 title: fields[1] || '',
                 question: fields[2] || '',
                 answer: fields[3] || '',
-                url: fields[4] || ''
+                urlShort: fields[4] || '',  // URL short text
+                url: fields[5] || ''  // Actual URL
             };
         });
     }
@@ -80,12 +81,14 @@ document.addEventListener('DOMContentLoaded', () => {
         const currentCard = currentFileData[currentIndex];
         document.getElementById('answer').value = currentCard.answer;
         const urlField = document.getElementById('url');
-        urlField.value = currentCard.url;
 
-        if (currentCard.url) {
+        if (currentCard.url && currentCard.urlShort) {
+            urlField.value = currentCard.urlShort;  // Display URLshort as text
             urlField.style.color = 'blue';
-            urlField.onclick = () => window.open(currentCard.url, '_blank');
+            urlField.style.cursor = 'pointer';
+            urlField.onclick = () => window.open(currentCard.url, '_blank');  // Open full URL when clicked
         } else {
+            urlField.value = '';  // Clear the field if there’s no URL or URLshort
             urlField.style.color = 'black';
             urlField.onclick = null;
         }
