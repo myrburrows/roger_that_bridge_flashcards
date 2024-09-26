@@ -1,28 +1,28 @@
-NoTrump Bids	1NT Opening	HCP range for opening 1 NoTrump,  Partner must announce range.	15-17	
-NoTrump Bids	1NT Opening	A NoTrump opener promises 1 of 3 distributions.  What are they?	4-4-3-2, 4-3-3-3, or 5-3-2-2	
-NoTrump Bids	1NT Opening	You need to have stoppers in ______ suits to open NT.	3 or 4 suits	
-NoTrump Bids	1NT Opening	May open a 5-card Major, called 5-card Major _____.	Common	
-NoTrump Bids	1NT Responses	2NT shows ______ HCP and no ______.	8-9, 4-card Major	
-NoTrump Bids	1NT Responses	3NT shows ______ HCP and no ______.	10-15, 4-card Major	
-NoTrump Bids	1NT Responses	4NT shows ______ HCP, a ______ hand, and is a ______.	16-17, balanced, slam invitation	
-NoTrump Bids	1NT Responses	2C is the _______ convention.  No ______ by Partner needed.	Stayman, announcement or notification or alert	
-NoTrump Bids	1NT Responses	2C shows _______ HCP, and a _______ Major.	8+; 4-card	
-NoTrump Bids	1NT Responses	2D or 2H is a _______ bid, and needs an ______ by Partner (opener).	Jacoby transfer, announcement	
-NoTrump Bids	1NT Responses	2D promises _____, and 2H promises _____.	5+ Hearts; 5+ Spades	
-NoTrump Bids	1NT Responses	2D or 2H promises _______ HCPs and a _______ Major.	0-unlimited HCP, 5+-card	
-NoTrump Bids	1NT Responses	1NT {2C overcall} 2D is a transfer 2 Hearts.  This is called ______.	systems on or "systems on over"	
-NoTrump Bids	1NT Responses	Responding 2S to 1NT is a	relay to 3C = bust	
-NoTrump Bids	1NT Responses	Responding 2S to 1NT shows _____ HCP.  ______.	0-5; ALERT required	
-NoTrump Bids	1NT Responses	Responding 2S to 1NT shows a ______.	6+ card minor	
-NoTrump Bids	1NT Responses	Responding 2S to 1NT is a _______ to either minor.	signoff	
-NoTrump Bids	1NT Responses	3C or 3D shows	6+ suit, invites 3NT	
-NoTrump Bids	1NT Responses	3C or 3D shows _____ HCP.	5-7 HCP	
-NoTrump Bids	1NT Responses	4D or 4H is called a _______.  An Announce is required.	Texas Transfer	
-NoTrump Bids	1NT Responses	4D or 4H is used to ______ opponents, no ______.	preempt; slam	
-NoTrump Bids	1NT Responses	Opponents overcall Partner's opening NT, double shows _____.	stolen bid	
-NoTrump Bids	2NT Opening	2NT opening shows _______ HCP, and ______ distribution.	20-21, NoTrump	
-NoTrump Bids	2NT Opening	2NT opening promises ______ in 3 or all 4 suits.	stoppers	
-NoTrump Bids	2NT Responses	These 3 artificial bids are ON in response to 2NT.	Stayman, Jacoby transfer, and Texas transfer	
-NoTrump Bids	2NT Responses	A 3S response is ______.	weak, relay to 4C	
-NoTrump Bids	3NT Opening	3NT opening shows _______ HCP, and NoTrump distribution.	25-27	
-NoTrump Bids	3NT Opening	3NT opening promises stoppers in ______ suits.	stoppers, 4	
+NoTrump Bids	1NT Opening	HCP range for opening 1 NoTrump,  Partner must announce range.	15-17	1NT	https://www.bridgebum.com/1nt_15_17.php#:~:text=1NT%20(15%2D17)&text=The%20modern%2C%20strong%201NT%20opening,due%20to%20its%20lower%20frequency.
+NoTrump Bids	1NT Opening	A NoTrump opener promises 1 of 3 distributions.  What are they?	4-4-3-2, 4-3-3-3, or 5-3-2-2	1NT	https://www.bridgebum.com/1nt_15_17.php#:~:text=1NT%20(15%2D17)&text=The%20modern%2C%20strong%201NT%20opening,due%20to%20its%20lower%20frequency.
+NoTrump Bids	1NT Opening	You need to have stoppers in ______ suits to open NT.	3 or 4 suits	Stoppers in NT	https://www.larryco.com/bridge-articles/when-does-a-notrump-bid-promise-a-stoppers
+NoTrump Bids	1NT Opening	May open a 5-card Major, called 5-card Major _____.	Common	Convention Card	https://www.bridgehands.com/Conventions/ACBL_Convention_Card_Instructions.htm
+NoTrump Bids	1NT Responses	2NT shows ______ HCP and no ______.	8-9, 4-card Major	1NT	https://www.bridgebum.com/1nt_15_17.php#:~:text=1NT%20(15%2D17)&text=The%20modern%2C%20strong%201NT%20opening,due%20to%20its%20lower%20frequency.
+NoTrump Bids	1NT Responses	3NT shows ______ HCP and no ______.	10-15, 4-card Major	1NT	https://www.bridgebum.com/1nt_15_17.php#:~:text=1NT%20(15%2D17)&text=The%20modern%2C%20strong%201NT%20opening,due%20to%20its%20lower%20frequency.
+NoTrump Bids	1NT Responses	4NT shows ______ HCP, a ______ hand, and is a ______.	16-17, balanced, slam invitation	1NT	https://www.bridgebum.com/1nt_15_17.php#:~:text=1NT%20(15%2D17)&text=The%20modern%2C%20strong%201NT%20opening,due%20to%20its%20lower%20frequency.
+NoTrump Bids	1NT Responses	2C is the _______ convention.  No ______ by Partner needed.	Stayman, announcement or notification or alert	1NT	https://www.bridgebum.com/1nt_15_17.php#:~:text=1NT%20(15%2D17)&text=The%20modern%2C%20strong%201NT%20opening,due%20to%20its%20lower%20frequency.
+NoTrump Bids	1NT Responses	2C shows _______ HCP, and a _______ Major.	8+; 4-card	1NT	https://www.bridgebum.com/1nt_15_17.php#:~:text=1NT%20(15%2D17)&text=The%20modern%2C%20strong%201NT%20opening,due%20to%20its%20lower%20frequency.
+NoTrump Bids	1NT Responses	2D or 2H is a _______ bid, and needs an ______ by Partner (opener).	Jacoby transfer, announcement	Jacoby transfer	https://en.wikipedia.org/wiki/Jacoby_transfer
+NoTrump Bids	1NT Responses	2D promises _____, and 2H promises _____.	5+ Hearts; 5+ Spades	Jacoby transfer	https://en.wikipedia.org/wiki/Jacoby_transfer
+NoTrump Bids	1NT Responses	2D or 2H promises _______ HCPs and a _______ Major.	0-unlimited HCP, 5+-card	Jacoby transfer	https://en.wikipedia.org/wiki/Jacoby_transfer
+NoTrump Bids	1NT Responses	1NT {2C overcall} 2D is a transfer 2 Hearts.  This is called ______.	systems on or "systems on over"	Systems On	https://doppleronline.ca/huntsville/duplicate-bridge-results-and-tip-systems-on-systems-off/#:~:text=This%20is%20known%20as%20%E2%80%9CSystems,Diamonds%20for%20a%20normal%20transfer.
+NoTrump Bids	1NT Responses	Responding 2S to 1NT is a	relay to 3C = bust	1NT	https://www.bridgebum.com/1nt_15_17.php#:~:text=1NT%20(15%2D17)&text=The%20modern%2C%20strong%201NT%20opening,due%20to%20its%20lower%20frequency.
+NoTrump Bids	1NT Responses	Responding 2S to 1NT shows _____ HCP.  ______.	0-5; ALERT required	1NT	https://www.bridgebum.com/1nt_15_17.php#:~:text=1NT%20(15%2D17)&text=The%20modern%2C%20strong%201NT%20opening,due%20to%20its%20lower%20frequency.
+NoTrump Bids	1NT Responses	Responding 2S to 1NT shows a ______.	6+ card minor	1NT	https://www.bridgebum.com/1nt_15_17.php#:~:text=1NT%20(15%2D17)&text=The%20modern%2C%20strong%201NT%20opening,due%20to%20its%20lower%20frequency.
+NoTrump Bids	1NT Responses	Responding 2S to 1NT is a _______ to either minor.	signoff	1NT	https://www.bridgebum.com/1nt_15_17.php#:~:text=1NT%20(15%2D17)&text=The%20modern%2C%20strong%201NT%20opening,due%20to%20its%20lower%20frequency.
+NoTrump Bids	1NT Responses	3C or 3D shows	6+ suit, invites 3NT	1NT	https://www.bridgebum.com/1nt_15_17.php#:~:text=1NT%20(15%2D17)&text=The%20modern%2C%20strong%201NT%20opening,due%20to%20its%20lower%20frequency.
+NoTrump Bids	1NT Responses	3C or 3D shows _____ HCP.	5-7 HCP	1NT	https://www.bridgebum.com/1nt_15_17.php#:~:text=1NT%20(15%2D17)&text=The%20modern%2C%20strong%201NT%20opening,due%20to%20its%20lower%20frequency.
+NoTrump Bids	1NT Responses	4D or 4H is called a _______.  An Announce is required.	Texas Transfer	Texas transfer	https://www.bridgebum.com/texas_transfer.php
+NoTrump Bids	1NT Responses	4D or 4H is used to ______ opponents, no ______.	preempt; slam	Texas transfer	https://www.bridgebum.com/texas_transfer.php
+NoTrump Bids	1NT Responses	Opponents overcall Partner's opening NT, double shows _____.	stolen bid	Stolen bids	https://www.acblunit390.org/Simon/stolen-bids.htm
+NoTrump Bids	2NT Opening	2NT opening shows _______ HCP, and ______ distribution.	20-21, NoTrump	Bridge Basic	https://en.wikipedia.org/wiki/Bridge_Base_Basic
+NoTrump Bids	2NT Opening	2NT opening promises ______ in 3 or all 4 suits.	stoppers	Stoppers in NT	https://www.larryco.com/bridge-articles/when-does-a-notrump-bid-promise-a-stoppers
+NoTrump Bids	2NT Responses	These 3 artificial bids are ON in response to 2NT.	Stayman, Jacoby transfer, and Texas transfer	2NT Opener	https://bridge-tips.co.il/wp-content/uploads/2021/10/Responding-to-the-opening-bid-of-2NT.pdf
+NoTrump Bids	2NT Responses	A 3S response is ______.	weak, relay to 4C	1NT	https://www.bridgebum.com/1nt_15_17.php#:~:text=1NT%20(15%2D17)&text=The%20modern%2C%20strong%201NT%20opening,due%20to%20its%20lower%20frequency.
+NoTrump Bids	3NT Opening	3NT opening shows _______ HCP, and NoTrump distribution.	25-27	1NT	https://www.bridgebum.com/1nt_15_17.php#:~:text=1NT%20(15%2D17)&text=The%20modern%2C%20strong%201NT%20opening,due%20to%20its%20lower%20frequency.
+NoTrump Bids	3NT Opening	3NT opening promises stoppers in ______ suits.	stoppers, 4	1NT	https://www.bridgebum.com/1nt_15_17.php#:~:text=1NT%20(15%2D17)&text=The%20modern%2C%20strong%201NT%20opening,due%20to%20its%20lower%20frequency.

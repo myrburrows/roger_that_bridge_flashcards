@@ -12,22 +12,33 @@ label {
     font-weight: bold;
     margin-right: 10px;
     text-align: right;
-    width: 120px;
+    width: 150px;
     display: inline-block;
     vertical-align: top;
 }
 
-input, textarea {
+input, textarea, select {
     margin-bottom: 10px;
     padding: 5px;
     width: 300px;
     display: inline-block;
 }
 
+/* Deck and Title fields */
+#deck, #title {
+    background-color: #FFF9C4; /* Pale yellow background */
+    text-align: center; /* Center the text */
+}
+
+/* Ensure dropdown aligns with the labels */
+select {
+    width: 320px;
+}
+
 textarea {
     height: 30px; /* Initially one line */
-    resize: none; /* Prevent manual resizing */
-    overflow: hidden; /* Expand automatically when the content overflows */
+    resize: none;
+    overflow: hidden;
 }
 
 textarea.expanding {
@@ -35,18 +46,41 @@ textarea.expanding {
     height: auto;
 }
 
+/* Button container aligned with labels and input fields */
 .flashcard-buttons {
     margin-top: 20px;
+    display: flex;
+    justify-content: flex-start; /* Align to the left under labels */
+    gap: 10px; /* Space between Last and Next */
+    margin-left: 160px; /* Align the buttons with the labels and text boxes */
 }
 
+/* Buttons close together */
 button {
     padding: 10px 20px;
-    margin-right: 10px;
     font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
 }
 
-.flashcard-row {
-    margin-bottom: 10px;
+/* Add a larger gap between Next and Answer */
+#answer-btn {
+    background-color: #2196F3;
+    margin-left: 30px; /* Extra space between Next and Answer */
+}
+
+#next-btn {
+    background-color: #4CAF50;
+}
+
+#last-btn {
+    background-color: #FF9800;
+}
+
+button:hover {
+    opacity: 0.8;
 }
 
 input[readonly], textarea[readonly] {
