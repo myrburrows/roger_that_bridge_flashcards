@@ -1,8 +1,8 @@
 2+-Level Opening	2+-Level Opening	2C (a strong, artificial, and forcing opener) shows 22+ HCP or ___	9+ playing tricks with no help from Partner	Strong 2C	https://www.bridgebum.com/strong_2c.php
-2+-Level Opening	2+-Level Opening	Opening 2D, or 2H, or 2S (preempt, "weak-2"): ______ HCP, a _____ suit	5-11, 6-card strong 	Weak 2 Bids	https://www.bridgebum.com/weak_two.php
+2+-Level Opening	2+-Level Opening	Opening 2D, or 2H, or 2S (preempt, "weak-2"): ______ HCP, a _____ suit	5-10, 6-card strong 	Weak 2 Bids	https://www.bridgebum.com/weak_two.php
 2+-Level Opening	2+-Level Opening	You need a "strong" suit to open a weak-2: ___	2 of the top 3, or 3 of the top 5	Weak 2 Bids	https://www.bridgebum.com/weak_two.php
 2+-Level Opening	2+-Level Opening	Opening a weak-3 shows a ___ card suit, a weak-4 shows ___	7; 8	Opening 3 Bids	https://kwbridge.com/3bids.htm
-2+-Level Opening	2+-Level Opening	Sometimes you open a weak-2 with a _____ ___-card suit.	soft 7	SAYC Booklet	https://web2.acbl.org/documentlibrary/play/SP3%20(bk)%20single%20pages.pdf
+2+-Level Opening	2+-Level Opening	Sometimes you open a weak-2 with a _____ ___-card suit.	"soft" (less honors) 7	SAYC Booklet	https://web2.acbl.org/documentlibrary/play/SP3%20(bk)%20single%20pages.pdf
 2+-Level Opening	2+-Level Responses	After Partner's 2C opening, we respond with the ______. This point count system must be ______.	"step" system, alerted	Step response	https://www.bridgewebs.com/villages/Responding%20to%20the%20Two%20Club%20Bid.pdf
 2+-Level Opening	2+-Level Responses	In our "2C response system", 2D shows ______ HCP, 2H shows ______, and 2S shows ______.	0 to 3, 4 to 6, 7 to 9	Step response	https://www.bridgewebs.com/villages/Responding%20to%20the%20Two%20Club%20Bid.pdf
 2+-Level Opening	2+-Level Responses	In our "2C response system", a 2NT response shows ______ HCP	10+	Step response	https://www.bridgewebs.com/villages/Responding%20to%20the%20Two%20Club%20Bid.pdf
