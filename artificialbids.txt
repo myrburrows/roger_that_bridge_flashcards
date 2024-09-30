@@ -1,35 +1,35 @@
-Artificial Bids	Takeout Doubles	A Takeout Double is typically used when the opponents have opened the bidding and you want to suggest playing in an ______ suit.	unbid	
-Artificial Bids	Takeout Doubles	We play that doubles at a low level (1- and 2- bids) are for takeout unless Partner has bid ______.	her own suit	
-Artificial Bids	Takeout Doubles	A standard takeout double usually promises support for ______ unbid suits, and a negative double for ______ unbid suits, especially majors.	3, 2	
-Artificial Bids	Takeout Doubles	To make a takeout double, you should have at least ______ HCP, though fewer may be acceptable with perfect distribution.	12	
-Artificial Bids	Takeout Doubles	After your partner makes a takeout double (it's forcing), if you have 0-9 Playing Points, you should respond at the __________ level.	lowest available	
-Artificial Bids	Takeout Doubles	If your partner makes a takeout double and you have 10+ Playing Points, you should __________ to show extra strength.	jump	
-Artificial Bids	Takeout Doubles	Opponents open a weak 2, 3, or 4.  A double is for _____.	takeout, thru 4D	
-Artificial Bids	Negative Doubles	A Negative Double is made by the responder after an opponent has made a(n) __________ bid over Partner's opening.	overcall	
-Artificial Bids	Negative Doubles	A negative double typically promises support for the unbid suits, especially __________ if the opponent has bid a major.	the other major	
-Artificial Bids	Negative Doubles	A negative double at the 1-level promises at least __________ HCP and support for the unbid suits.	6	
-Artificial Bids	Negative Doubles	If your partner opens 1♥ and the opponent overcalls 1♠, a negative double by you promises ______.	support for the minors	
-Artificial Bids	Negative Doubles	The sequence 1D - {1S} - X (a negative double) shows ______ HCP and _____ Hearts.	6+. 4 (you would usually just bid 2H with 5+ of them)	
-Artificial Bids	Slam Conventions	After no natural Club bid and a natural NT bid,  a bid (especially a jump bid) of ___ is the Gerber convention, ______ asking.	4C, ace	
-Artificial Bids	Slam Conventions	After a 4C Gerber bid, a bid of _____ shows one ace.	4H	
-Artificial Bids	Slam Conventions	If there has been no natural NoTrump bid, a bid of ______ is the Blackwood convention, ______ asking.	4NT, ace	
-Artificial Bids	Slam Conventions	After 4NT, a 5D bid shows ______ aces. After 4NT, a 5S bid shows ______ aces.	1, 3	
-Artificial Bids	NT Conventions	In response to a 1- or 2NT opener, we use the _____ convention to show a 4-card major.	Stayman	
-Artificial Bids	NT Conventions	In response to a 1- or 2NT opener, we use the _____ convention to show a 5+-card major.	Jacoby transfer	
-Artificial Bids	NT Conventions	In response to a 1- or 2NT opener, we use the _____ convention to show a weak hand with a long major.  It is preemptive.	Texas transfer	
-Artificial Bids	NT Conventions	When partner opens 1NT or 2NT, and your righthand opponents interferes, we use ______ to show that was a stolen bid.	double	
-Artificial Bids	Majors Convention	In place of the "Jacoby 2NT", we use the simpler 2-way response of _____ to 1-of-a-major to shown an opening hand with 4+ trump.	2C, must be Alerted	
-Artificial Bids	2-Club Convention	In response to a 2C opening (22+ HCP or 9 unaided playing tricks), we use the ______ system to show ______.	step, HCP	
-Artificial Bids	Michaels Convention	If opponents open 1-of-a-major, a cuebid overcall shows the ______ and a ______.	other major, minor	
-Artificial Bids	Michaels Convention	If opponents open 1-of-a-minor, a cuebid overcall is ______.	natural	
-Artificial Bids	Unused conventions	Although often seen, we do not use the artificial bid ______, which is a response to 1-of-a-major showing opening HCP and 4+ support.	Jacoby 2NT	
-Artificial Bids	Unused conventions	Although often seen, we do not use the artificial bid ______, which is a weak and general response to a 2C opening.	2D waiting	
-Artificial Bids	Unused conventions	Although often seen, we do not use the artificial bid ______, which is an advanced Blackwood system with 5 key cards.	Roman Key Cards	
-Artificial Bids	Unused conventions	Although often seen, we do not use the artificial bid ______, which is a cue bid over 1C or 1D showing at least 5-5 in the majors.	Michaels for minor suits	
-Artificial Bids	Unused conventions	Although often seen, we do not use the artificial bid ______, which is a weak, preemptive jump bid over opponent's suit bid showing length in the 2 lowest unbid suits	unusual 2NT	
-Artificial Bids	Unused conventions	Although often seen, we do not use the artificial bid ______, which is a forcing double or triple jump that cannot be a "real" suit. It shows shortness and/or control.	spliinter bids	
-Artificial Bids	Unused conventions	Although often seen, we do not use the artificial bid ______, which is a rebid of a new minor by opener looking for a 5-3 fit.	new minor forcing	
-Artificial Bids	Unused conventions	Although often seen, we do not use the artificial bid ______, which is an understanding that the fourth suit bid is asking partner for more information.	4th suit forcing	
-Artificial Bids	Unused conventions	Although often seen, we do not use the artificial bid ______, which is a system used after opponent's interfere with partner's 1NT opening.	Lebesohl.	
-Artificial Bids	Unused conventions	Although often seen, we do not use the artificial bid ______, which is used to show 3-card support after your righthand opponent interferes after a suit response.	support double	
-Artificial Bids	Unused conventions	Although often seen, we do not use the artificial bid ______, which is used to after partner's takeout double to show support for the unbid suits.	responsive double	
+Artificial Bids	Takeout Doubles	A Takeout Double is typically used when the opponents have opened the bidding and you want to suggest playing in an ______ suit.	unbid	Takeout double	https://en.wikipedia.org/wiki/Takeout_double
+Artificial Bids	Takeout Doubles	We play that doubles at a low level (1- and 2- bids) are for takeout unless Partner has bid ______.	her own suit	Takeout double	https://en.wikipedia.org/wiki/Takeout_double
+Artificial Bids	Takeout Doubles	A standard takeout double usually promises support for ______ unbid suits, and a negative double for ______ unbid suits, especially majors.	3, 2	Takeout double	https://en.wikipedia.org/wiki/Takeout_double
+Artificial Bids	Takeout Doubles	To make a takeout double, you should have at least ______ HCP, though fewer may be acceptable with perfect distribution.	12	Takeout double	https://en.wikipedia.org/wiki/Takeout_double
+Artificial Bids	Takeout Doubles	After your partner makes a takeout double (it's forcing), if you have 0-9 Playing Points, you should respond at the __________ level.	lowest available	Takeout double	https://en.wikipedia.org/wiki/Takeout_double
+Artificial Bids	Takeout Doubles	If your partner makes a takeout double and you have 10+ Playing Points, you should __________ to show extra strength.	jump	Takeout double	https://en.wikipedia.org/wiki/Takeout_double
+Artificial Bids	Takeout Doubles	Opponents open a weak 2, 3, or 4.  A double is for _____.	takeout, thru 4D	Takeout double	https://en.wikipedia.org/wiki/Takeout_double
+Artificial Bids	Negative Doubles	A Negative Double is made by the responder after an opponent has made a(n) __________ bid over Partner's opening.	overcall	Negative double	https://en.wikipedia.org/wiki/Negative_double
+Artificial Bids	Negative Doubles	A negative double typically promises support for the unbid suits, especially __________ if the opponent has bid a major.	the other major	Negative double	https://en.wikipedia.org/wiki/Negative_double
+Artificial Bids	Negative Doubles	A negative double at the 1-level promises at least __________ HCP and support for the unbid suits.	6	Negative double	https://en.wikipedia.org/wiki/Negative_double
+Artificial Bids	Negative Doubles	If your partner opens 1♥ and the opponent overcalls 1♠, a negative double by you promises ______.	support for the minors	Negative double	https://en.wikipedia.org/wiki/Negative_double
+Artificial Bids	Negative Doubles	The sequence 1D - {1S} - X (a negative double) shows ______ HCP and _____ Hearts.	6+. 4 (you would usually just bid 2H with 5+ of them)	Negative double	https://en.wikipedia.org/wiki/Negative_double
+Artificial Bids	Slam Conventions	After no natural Club bid and a natural NT bid,  a bid (especially a jump bid) of ___ is the Gerber convention, ______ asking.	4C, ace	Gerber convention	https://en.wikipedia.org/wiki/Gerber_convention
+Artificial Bids	Slam Conventions	After a 4C Gerber bid, a bid of _____ shows one ace.	4H	Gerber convention	https://en.wikipedia.org/wiki/Gerber_convention
+Artificial Bids	Slam Conventions	If there has been no natural NoTrump bid, a bid of ______ is the Blackwood convention, ______ asking.	4NT, ace	Std Blackwood	https://en.wikipedia.org/wiki/Blackwood_convention
+Artificial Bids	Slam Conventions	After 4NT, a 5D bid shows ______ aces. After 4NT, a 5S bid shows ______ aces.	1, 3	Std Blackwood	https://en.wikipedia.org/wiki/Blackwood_convention
+Artificial Bids	NT Conventions	In response to a 1- or 2NT opener, we use the _____ convention to show a 4-card major.	Stayman	1NT responses	https://www.bridgebum.com/1nt_15_17.php
+Artificial Bids	NT Conventions	In response to a 1- or 2NT opener, we use the _____ convention to show a 5+-card major.	Jacoby transfer	1NT responses	https://www.bridgebum.com/1nt_15_17.php
+Artificial Bids	NT Conventions	In response to a 1- or 2NT opener, we use the _____ convention to show a weak hand with a long major.  It is preemptive.	Texas transfer	Texas transfer	https://www.bridgebum.com/texas_transfer.php
+Artificial Bids	NT Conventions	When partner opens 1NT or 2NT, and your righthand opponents interferes, we use ______ to show that was a stolen bid.	double	Stolen bid	https://doppleronline.ca/huntsville/duplicate-bridge-results-and-tip-stolen-bids/
+Artificial Bids	Majors Convention	In place of the "Jacoby 2NT", we use the simpler 2-way response of _____ to 1-of-a-major to shown an opening hand with 4+ trump.	2C, must be Alerted	Artificial 2C	https://docs.google.com/document/d/14MqhuL0E3DKyNY4kAYQbOD0SQeczmgQ9ujS47Wz0OFI/edit?usp=sharing
+Artificial Bids	2-Club Convention	In response to a 2C opening (22+ HCP or 9 unaided playing tricks), we use the ______ system to show ______.	step, HCP	Step response	https://www.bridgewebs.com/villages/Responding%20to%20the%20Two%20Club%20Bid.pdf
+Artificial Bids	Michaels Convention	If opponents open 1-of-a-major, a cuebid overcall shows the ______ and a ______.	other major, minor	Michaels cuebid	https://en.wikipedia.org/wiki/Michaels_cuebid
+Artificial Bids	Michaels Convention	If opponents open 1-of-a-minor, a cuebid overcall is ______. On the convention card, we mark this convention for Majors only.	natural	Michaels cuebid	https://en.wikipedia.org/wiki/Michaels_cuebid
+Artificial Bids	Unused conventions	Although often seen, we do not use the artificial bid ______, which is a response to 1-of-a-major showing opening HCP and 4+ support.	Jacoby 2NT	Jacoby 2NT	https://en.wikipedia.org/wiki/Jacoby_2NT
+Artificial Bids	Unused conventions	Although often seen, we do not use the artificial bid ______, which is a weak and general response to a 2C opening.	2D waiting	Strong 2C	https://www.bridgebum.com/strong_2c.php
+Artificial Bids	Unused conventions	Although often seen, we do not use the artificial bid ______, which is an advanced Blackwood system with 5 key cards.	Roman Key Cards	RKC Blackwood	https://en.wikipedia.org/wiki/Blackwood_convention
+Artificial Bids	Unused conventions	Although often seen, we do not use the artificial bid ______, which is a cue bid over 1C or 1D showing at least 5-5 in the majors.	Michaels for minor suits	Michaels cuebid	https://en.wikipedia.org/wiki/Michaels_cuebid
+Artificial Bids	Unused conventions	Although often seen, we do not use the artificial bid ______, which is a weak, preemptive jump bid over opponent's suit bid showing length in the 2 lowest unbid suits	unusual 2NT	Unusual NT	https://en.wikipedia.org/wiki/Unusual_notrump
+Artificial Bids	Unused conventions	Although often seen, we do not use the artificial bid ______, which is a forcing double or triple jump that cannot be a "real" suit. It shows shortness and/or control.	spliinter bids	Splinter bids	https://en.wikipedia.org/wiki/Splinter_bid
+Artificial Bids	Unused conventions	Although often seen, we do not use the artificial bid ______, which is a rebid of a new minor by opener looking for a 5-3 fit.	new minor forcing	New Minor forcing	https://en.wikipedia.org/wiki/New_minor_forcing
+Artificial Bids	Unused conventions	Although often seen, we do not use the artificial bid ______, which is an understanding that the fourth suit bid is asking partner for more information.	4th suit forcing	4th suit forcing	https://en.wikipedia.org/wiki/Fourth_suit_forcing
+Artificial Bids	Unused conventions	Although often seen, we do not use the artificial bid ______, which is a system used after opponent's interfere with partner's 1NT opening.	Lebesohl.	Lebensohl	https://en.wikipedia.org/wiki/Lebensohl
+Artificial Bids	Unused conventions	Although often seen, we do not use the artificial bid ______, which is used to show 3-card support after your righthand opponent interferes after a suit response.	support double	Support double	https://en.wikipedia.org/wiki/Support_double
+Artificial Bids	Unused conventions	Although often seen, we do not use the artificial bid ______, which is used to after partner's takeout double to show support for the unbid suits.	responsive double	Responsive double	https://www.bridgebum.com/responsive_double.php
