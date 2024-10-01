@@ -1,20 +1,20 @@
-Defensive Bidding	Simple Overcalls	A 1-of-a-suit overcall of a 1-level opener shows ______ HCP.	7-16	
-Defensive Bidding	Simple Overcalls	A 1-of-a-suit overcall of a 1-level opener shows a strong ______ suit.	5+ card	
-Defensive Bidding	Simple Overcalls	A 2-of-a-suit overcall of a 1-level opener shows ______ HCP.	10-17	
-Defensive Bidding	Simple Overcalls	A 3-of-a-suit overcall of a 1-level opener is a ______ with a 7+-card suit.	preempt	
-Defensive Bidding	Simple Overcalls	A 2NT overcall of a weak-2 opener shows _____ HCP with a stopper. This is the only ______ overcall of a weak-2.	14-18, forcing	
-Defensive Bidding	Simple Overcalls	A new suit overcall of a weak-2 opener shows _____ HCP with a ______ suit.	11+, 5+-card	
-Defensive Bidding	Simple Overcalls	A double of opponent's weak-2 opener shows _____ HCP and ______.	12+, shortness	
-Defensive Bidding	Jump Overcalls	A jump overcall, like (1S)-3D is ______.	weak, preempt	
-Defensive Bidding	Opening Preempt	In our system, 3- and 4-level openers are "______", just meaning nothing tricky.	sound	
-Defensive Bidding	Direct Cuebid	A cuebid over a minor suit opening is _______, so {1D} - 2D really shows diamonds.	natural	
-Defensive Bidding	Direct Cuebid	For a cuebid over opponent's major suit opening we follow the ______ convention.	Michaels	
-Defensive Bidding	Direct Cuebid	The artificial bidding sequence {1H} - 2H shows 5+ ______ and a ______ suit.	Spades, minor	
-Defensive Bidding	NT Overcalls	Bidding 1NT over opponent's suit opener shows ______ HCP and a ______.	15-17, stopper	
-Defensive Bidding	NT Overcalls	After bidding 1NT over opponent's suit opener we play "Systems ______".	On	
-Defensive Bidding	Defense vs NT	After opponents open 1NT, an overcall 2C, 2D, 2H, or 2S is ___	natural	
-Defensive Bidding	Defense vs NT	A double after opponents open 1NT is ______.	for penalty	
-Defensive Bidding	Over Ops TOD	After opponent's TakeOut Double, a new suit is _______.	forcing if no jump	
-Defensive Bidding	Over Ops TOD	After opponent's TakeOut Double, a jump in a new suit is ______.	weak, preemptive	
-Defensive Bidding	Defense vs Preempt	After opponents open a weak 2, 3, or 4, a double is for _____ through ______.	takeout, thru 4D	
-Defensive Bidding	Balancing bid	In the pass-out seat, bid if you can to stop a cheap contract for opponents. This is called ______.	balancing	
+Defensive Bidding	Simple Overcalls	A 1-of-a-suit overcall of a 1-level opener shows ______ HCP.	8-16	Overcalls	https://en.wikipedia.org/wiki/Overcall
+Defensive Bidding	Simple Overcalls	A 1-of-a-suit overcall of a 1-level opener shows a strong ______ suit.	5+ card	Overcalls	https://en.wikipedia.org/wiki/Overcall
+Defensive Bidding	Simple Overcalls	A 2-of-a-suit overcall of a 1-level opener shows ______ HCP.	10-16	Overcalls	https://en.wikipedia.org/wiki/Overcall
+Defensive Bidding	Simple Overcalls	A 3-of-a-suit overcall of a 1-level opener is a ______ with a 7+-card suit.	preempt	Weak jump shift	https://www.bridgebum.com/weak_jump_shifts.php
+Defensive Bidding	Simple Overcalls	A 2NT overcall of a weak-2 opener shows _____ HCP with a stopper.	15-18 non-forcing	2NT Overcall	http://www.edmontonbridge.ca/Crosby_files/Coaches%20Corner/Hand%20Evaluation%20-%202NT%20overcall%20weak%20two.htm
+Defensive Bidding	Simple Overcalls	A new suit overcall of a weak-2 opener shows _____ HCP with a ______ suit.	11+, 5+-card	Weak-2 Overcalls	https://www.bridgewebs.com/lincolnhills/Defense%20Against%20Weak%202%20Bids.pdf
+Defensive Bidding	Simple Overcalls	A Takeout Double of opponent's weak-2 opener shows _____ HCP and ______.	12+, shortness	Weak-2 Overcalls	https://www.bridgewebs.com/lincolnhills/Defense%20Against%20Weak%202%20Bids.pdf
+Defensive Bidding	Jump Overcalls	A jump overcall, like (1S)-3D is ______.	weak, preempt	Weak jump shift	https://www.bridgebum.com/weak_jump_shifts.php
+Defensive Bidding	Opening Preempt	In our system, 3- and 4-level openers are "______", just meaning nothing tricky.	sound	Preempts	https://tommybridgeblog.blogspot.com/2007/05/i-have-been-waiting-to-start-series-on.html
+Defensive Bidding	Direct Cuebid	A cuebid over a minor suit opening is _______, so {1D} - 2D really shows diamonds.	natural	Cue bidding	https://esvc006636.swp0002ssl.server-secure.com/bridge/br22.htm
+Defensive Bidding	Direct Cuebid	For a cuebid over opponent's major suit opening we follow the ______ convention.	Michaels	Cue bidding	https://esvc006636.swp0002ssl.server-secure.com/bridge/br22.htm
+Defensive Bidding	Direct Cuebid	The artificial bidding sequence {1H} - 2H shows 5+ ______ and a ______ suit.	Spades, minor	Cue bidding	https://esvc006636.swp0002ssl.server-secure.com/bridge/br22.htm
+Defensive Bidding	NT Overcalls	Bidding 1NT over opponent's suit opener shows ______ HCP and a ______.	15-18, stopper	Overcalls	https://en.wikipedia.org/wiki/Overcall
+Defensive Bidding	NT Overcalls	After bidding 1NT over opponent's suit opener we play "Systems ______".	On	1NT Overcall	https://www.larryco.com/bridge-learning-center/print/30
+Defensive Bidding	Defense vs NT	After opponents open 1NT, an overcall 2C, 2D, 2H, or 2S is ___	natural	Defense over 1NT	https://pi.math.cornell.edu/~belk/1NTDefense.htm
+Defensive Bidding	Defense vs NT	A double after opponents open 1NT is ______.	for penalty	Defense over 1NT	https://pi.math.cornell.edu/~belk/1NTDefense.htm
+Defensive Bidding	Over Ops TOD	After opponent's TakeOut Double, a new suit is _______.	forcing if no jump	Over Takeout X	https://www.larryco.com/bridge-articles/over-opponents-takeout-double
+Defensive Bidding	Over Ops TOD	After opponent's TakeOut Double, a jump in a new suit is ______.	weak, preemptive	Over Takeout X	https://www.larryco.com/bridge-articles/over-opponents-takeout-double
+Defensive Bidding	Defense vs Preempt	After opponents open a weak 2, 3, or 4, a double is for _____ through ______.	takeout, thru 4D	Takeout double	https://en.wikipedia.org/wiki/Takeout_double
+Defensive Bidding	Balancing bid	In the pass-out seat, bid if you can to stop a cheap contract for opponents. This is called ______.	balancing	Balancing Seat	https://acbld20.org/education/Balancing%20-%20Irva%20Neyhart.pdf
