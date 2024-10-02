@@ -1,18 +1,20 @@
-Defensive Play	Defense, Opening Lead	The preferred lead against both suits and NT, is to lead _____	Partner's bid suit	
-Defensive Play	Defense, Opening Lead	Against a NT bid, the second preferred opening lead is top of a ______	3-card honor sequence	
-Defensive Play	Defense, Opening Lead	Against a NT bid, the third preferred opening lead is the top of touching honors from a ______	broken sequence	
-Defensive Play	Defense, Opening Lead	Against a NT bid, the fourth preferred opening lead is the ______ down from your longest and strongest suit.	fourth	
-Defensive Play	Defense, Opening Lead	The opening lead of the fourth down vs NT helps Partner figure out Declarer's holding in that suit by the ______	Rule of 11	
-Defensive Play	Defense, Opening Lead	With nothing better vs NT, if an honorless suit is chosen, lead ____	M.U.D., 2nd down 	
-Defensive Play	Defense, Opening Lead	Against a NT bid, if there is an equal choice between two suits, lead the ______.	major	
-Defensive Play	Defense, Opening Lead	Against a suit contract, if Partner hasn't bid, the preferred lead is a ______	singleton 	
-Defensive Play	Defense, Opening Lead	The third preferred lead vs a suit bid is from an ______, even a two-card one.	honor sequence	
-Defensive Play	Defense, Opening Lead	A golden rule against a suit bid is to never under lead an _____	Ace	
-Defensive Play	Defense, Opening Lead	Vs a suit bid, if an honorless suit is chosen, lead ____. It's the same for Nt and suit defense.	M.U.D., 2nd down 	
-Defensive Play	Defense, Opening Lead	If you think opponent's contract is a sacrifice, often _____	lead trump	
-Defensive Play	Defensive Play	The First Law of Defense is do NOT promote tricks in the ______	dummy	
-Defensive Play	Defensive Play	The Second Law of Defense is lead to ______.	weakness 	
-Defensive Play	Defensive Play	There are certainly exceptions but the standard play is second hand ______ and third hand ______.	low, high	
-Defensive Play	Defensive Play	Cover a(n) ______ honor with an honor.	unsupported	
-Defensive Play	Defensive Play	If an honor is led through you from a sequence of honors, try to cover the ______ one.	last	
-Defensive Play	Defensive Play	Opponents bid 1NT-3NT. Partner leads the 2♠. Partner surely has how many Spades?	four	
+Defensive Play	Defense, Opening Lead	In most cases, the preferred lead against both suits and NT, is Partner's ______	bid suit	Opening Leads	https://www.larryco.com/uploaded/product/72a2fac3-0723-442d-8961-58fd79c4af3d.pdf
+Defensive Play	Defense, Opening Lead	Against a NT bid, if not leading Partner's suit, the preferred opening lead is top of a ______	3-card honor sequence	Opening Leads	https://www.larryco.com/uploaded/product/72a2fac3-0723-442d-8961-58fd79c4af3d.pdf
+Defensive Play	Defense, Opening Lead	Against a NT bid, lead the top of touching honors from a ______	broken honor sequence	Opening Leads	https://www.larryco.com/uploaded/product/72a2fac3-0723-442d-8961-58fd79c4af3d.pdf
+Defensive Play	Defense, Opening Lead	Against a NT bid, if no better option, usually lead the ______ down from your longest and strongest suit.	fourth	Opening Leads	https://www.larryco.com/uploaded/product/72a2fac3-0723-442d-8961-58fd79c4af3d.pdf
+Defensive Play	Defense, Opening Lead	The opening lead of the fourth down vs NT helps Partner figure out Declarer's holding in that suit by the ______	Rule of 11	Opening Leads	https://www.larryco.com/uploaded/product/72a2fac3-0723-442d-8961-58fd79c4af3d.pdf
+Defensive Play	Defense, Opening Lead	With nothing better vs NT, if an honorless suit is chosen, lead ____	M.U.D., 2nd down 	MiddleUpDown	https://www.bridgebum.com/mud.php
+Defensive Play	Defense, Opening Lead	Against a NT bid, if there is an equal choice between two suits, lead the ______.	major	Opening Leads	https://www.larryco.com/uploaded/product/72a2fac3-0723-442d-8961-58fd79c4af3d.pdf
+Defensive Play	Defense, Opening Lead	Against a suit contract, if Partner hasn't bid, the preferred lead is a ______	singleton 	Opening Leads	https://www.larryco.com/uploaded/product/72a2fac3-0723-442d-8961-58fd79c4af3d.pdf
+Defensive Play	Defense, Opening Lead	If no bid by Partner and no singleton, the preferred lead vs a suit bid is from an ______, even a two-card one.	honor sequence	Opening Leads	https://www.larryco.com/uploaded/product/72a2fac3-0723-442d-8961-58fd79c4af3d.pdf
+Defensive Play	Defense, Opening Lead	A golden rule against a suit bid is to never under lead an _____	Ace	Opening Leads	https://www.larryco.com/uploaded/product/72a2fac3-0723-442d-8961-58fd79c4af3d.pdf
+Defensive Play	Defense, Opening Lead	Versus a suit bid, if an honorless suit is chosen, lead ____. It's the same for Nt and suit defense.	M.U.D., 2nd down 	MiddleUpDown	https://www.bridgebum.com/mud.php
+Defensive Play	Defense, Opening Lead	If you think opponent's contract is a sacrifice, often _____	lead trump	Opening Leads	https://www.larryco.com/uploaded/product/72a2fac3-0723-442d-8961-58fd79c4af3d.pdf
+Defensive Play	Defense, Opening Lead	Opponents bid 1NT-3NT. Partner leads the 2♠. Partner surely has how many Spades?	four	Opening Leads	https://www.hamiltonbridge.com/Articles/DefensiveStrategy.html
+Defensive Play	Defensive Play	In ______ defense, you try to get tricks quickly. Play honors early before declarer can discard losers.	active	Defense Strategy	https://www.hamiltonbridge.com/Articles/DefensiveStrategy.html
+Defensive Play	Defensive Play	In ______ defense, hold on to honors to block declarer from extra tricks. Declarers don't like this defense!	passive	Defense Strategy	https://www.hamiltonbridge.com/Articles/DefensiveStrategy.html
+Defensive Play	Defensive Play	The First Law of Defense is do NOT promote tricks in the ______, especially in passive defense.	dummy	Defense Strategy	https://www.hamiltonbridge.com/Articles/DefensiveStrategy.html
+Defensive Play	Defensive Play	The Second Law of Defense is lead to ______, especially with dummy on your right and passive defense.	weakness 	Defense Strategy	https://www.hamiltonbridge.com/Articles/DefensiveStrategy.html
+Defensive Play	Defensive Play	There are certainly exceptions but the standard play is second hand ______ and third hand ______.	low, high	Defense Strategy	https://www.hamiltonbridge.com/Articles/DefensiveStrategy.html
+Defensive Play	Defensive Play	General guideline, cover a(n) ______ honor with an honor.	unsupported	Defense Strategy	https://www.hamiltonbridge.com/Articles/DefensiveStrategy.html
+Defensive Play	Defensive Play	If an honor is led through you from a sequence of honors, try to cover the ______ honor with an honor.	last	Defense Strategy	https://www.hamiltonbridge.com/Articles/DefensiveStrategy.html

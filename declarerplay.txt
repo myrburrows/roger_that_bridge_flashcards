@@ -1,14 +1,14 @@
-Declarer Play	Plan The Play	Plan each suit! In a suit bid, count ___.  In NT, count ___	losers; winners	
-Declarer Play	Plan The Play	Probabilities: when an even number of cards are missing, they will ____	not split evenly	
-Declarer Play	Plan The Play	Probabilities: 6 cards missing, will split 3-3 ______ % of the time. 	less than 36	
-Declarer Play	Plan The Play	Probabilities: when an odd number of cards are missing, they will ____	split close as possible to even	
-Declarer Play	Plan The Play	Probabilities: 5 cards missing, will split 3-2 ______ % of the time.	almost 68	
-Declarer Play	Plan The Play	To get extra tricks: plan to promote cards, use long suits,  trump ____	side-suit losers	
-Declarer Play	Declarer Play	Avoid opponents best suit.  Don't let the ____ hand on lead.	danger	
-Declarer Play	Declarer Play	_____ unless getting extra tricks by trumping in.	Draw trumps	
-Declarer Play	Declarer Play	An ______ puts opponents on lead to force a bad lead for them. 	Endplay	
-Declarer Play	Declarer Play	Types of _____ : indirect, ruffing, direct, free, deep, marked	Finesse	
-Declarer Play	Declarer Play	Instead of ruffing, it's often best to throw a ______	loser on a loser	
-Declarer Play	Declarer Play	To maintain the ability to get dummy on lead, keep ____	transportation	
-Declarer Play	Declarer Play	Clearing master cards from the short-side is _____	unblocking	
-Declarer Play	Declarer Play	What is the rule for deciding whether or not to finesse for a Queen?	8 ever, 9 never	
+Declarer Play	Plan The Play	Plan each suit! In a suit bid, count ___.  In NT, count ___	losers; winners	Improved Play	https://bridge-tips.co.il/wp-content/uploads/2023/09/Improvers-Card-Play.pdf
+Declarer Play	Plan The Play	Probabilities: when an even number of cards are missing, they will ____	not split evenly	Playing the Odds	https://kwbridge.com/odds.htm#:~:text=Odds%20of%20suit%20breaks%3A,more%20often%20than%203%2D3.
+Declarer Play	Plan The Play	Probabilities: 6 cards missing, will split 3-3 ______ % of the time. 	less than 36	Playing the Odds	https://kwbridge.com/odds.htm#:~:text=Odds%20of%20suit%20breaks%3A,more%20often%20than%203%2D3.
+Declarer Play	Plan The Play	Probabilities: when an odd number of cards are missing, they will ____	split close as possible to even	Playing the Odds	https://kwbridge.com/odds.htm#:~:text=Odds%20of%20suit%20breaks%3A,more%20often%20than%203%2D3.
+Declarer Play	Plan The Play	Probabilities: 5 cards missing, will split 3-2 ______ % of the time.	almost 68	Playing the Odds	https://kwbridge.com/odds.htm#:~:text=Odds%20of%20suit%20breaks%3A,more%20often%20than%203%2D3.
+Declarer Play	Plan The Play	To get extra tricks: plan to promote cards, use long suits,  trump ____	side-suit losers	Trick Taking	https://www.bridgeworld.com/pages/learn/elementary/lesson6.html
+Declarer Play	Declarer Play	Avoid opponents best suit.  Don't let the ____ hand on lead.	danger	Danger Hand	https://bernardmageebridge.com/glossary/danger-hand/
+Declarer Play	Declarer Play	_____ unless getting extra tricks by trumping in.	Draw trumps	Draw Trumps	https://www.60secondbridge.com/play-of-the-hand-lessons/drawing-trumps/
+Declarer Play	Declarer Play	An ______ puts opponents on lead to force a bad lead for them. 	Endplay	Endplay	https://www.bridgebum.com/endplay.php
+Declarer Play	Declarer Play	Types of _____ : indirect, ruffing, direct, free, deep, marked	Finesse	Finesse	https://en.wikipedia.org/wiki/Finesse
+Declarer Play	Declarer Play	Instead of ruffing, it's often best to throw a ______	loser on a loser	Loser on loser	https://www.larryco.com/bridge-articles/loser-on-loser-plays
+Declarer Play	Declarer Play	To maintain the ability to get dummy on lead, keep ____	transportation	Transportation	https://www.advinbridge.com/this-week-in-bridge/392
+Declarer Play	Declarer Play	Clearing master cards from the short-side is _____	unblocking	Unblocking	https://www.bridgebum.com/unblocking_play.php
+Declarer Play	Declarer Play	What is the rule for deciding whether or not to finesse for a Queen?	8 ever, 9 never	When to Finesse	https://www.bridgebum.com/eight_ever_nine_never.php
