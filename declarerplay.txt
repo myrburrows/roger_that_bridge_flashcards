@@ -11,4 +11,4 @@ Declarer Play	Declarer Play	Types of _____ : indirect, ruffing, direct, free, de
 Declarer Play	Declarer Play	Instead of ruffing, it's often best to throw a ______	loser on a loser	Loser on loser	https://www.larryco.com/bridge-articles/loser-on-loser-plays
 Declarer Play	Declarer Play	To maintain the ability to get dummy on lead, keep ____	transportation	Transportation	https://www.advinbridge.com/this-week-in-bridge/392
 Declarer Play	Declarer Play	Clearing master cards from the short-side is _____	unblocking	Unblocking	https://www.bridgebum.com/unblocking_play.php
-Declarer Play	Declarer Play	What is the rule for deciding whether or not to finesse for a Queen?	8 ever, 9 never	When to Finesse	https://www.bridgebum.com/eight_ever_nine_never.php
+Declarer Play	Declarer Play	What is the rule for deciding whether to finesse for a Queen?	8 ever, 9 never	When to Finesse	https://www.bridgebum.com/eight_ever_nine_never.php
