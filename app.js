@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Function to check if the server is running
     function checkServerAvailability() {
-        fetch('http://localhost:3000/status', { method: 'GET' })
+        fetch('https://roger-that-bridge-flashcards.herokuapp.com/status', { method: 'GET' })
             .then(response => {
                 if (response.ok) {
                     console.log('Server is running.');
@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded', () => {
         userId = prompt('Enter your user ID:');
         
         if (userId) {
-            fetch('http://localhost:3000/login', {
+            fetch('https://roger-that-bridge-flashcards.herokuapp.com/login', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({ userId }),
@@ -146,7 +146,7 @@ document.addEventListener('DOMContentLoaded', () => {
             return;
         }
 
-        fetch('http://localhost:3000/recordAction', {
+        fetch('https://roger-that-bridge-flashcards.herokuapp.com/recordAction', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({ userId, actionType, actionValue }),
