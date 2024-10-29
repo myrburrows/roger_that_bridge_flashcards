@@ -18,3 +18,4 @@ Defensive Play	Defensive Play	The Second Law of Defense is lead to ______, espec
 Defensive Play	Defensive Play	There are certainly exceptions but the standard play is second hand ______ and third hand ______.	low, high	Defense Strategy	https://www.hamiltonbridge.com/Articles/DefensiveStrategy.html
 Defensive Play	Defensive Play	General guideline, cover a(n) ______ honor with an honor.	unsupported	Defense Strategy	https://www.hamiltonbridge.com/Articles/DefensiveStrategy.html
 Defensive Play	Defensive Play	If an honor is led through you from a sequence of honors, try to cover the ______ honor with an honor.	last	Defense Strategy	https://www.hamiltonbridge.com/Articles/DefensiveStrategy.html
+Defensive Play	Defensive Play	Don't break new suits. The rule of thumb is "when a defender starts a new suit, it ______".	costs the defense 1 trick	Zombie Defense	https://www.larryco.com/bridge-articles/zombie-defense

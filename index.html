@@ -1,57 +1,44 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ROGER THAT BRIDGE Flashcard App</title>
-    <link rel="stylesheet" href="styles.css">
-    <link rel="icon" href="favicon.png" type="image/x-icon">
-    <!-- Google tag (gtag.js) -->
-</head>
-<body>
-    <h1>ROGER THAT BRIDGE Flashcard App</h1> <!-- Updated heading -->
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ROGER THAT BRIDGE Beginner Flashcards</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="icon" href="favicon.png" type="image/x-icon" />
+  </head>
+  <body>
+    <h1>ROGER THAT BRIDGE Beginner Flashcards</h1>
 
-    <!-- Dropdown for selecting text files -->
-    <label for="file-select">Choose a category:</label>
+    <label for="file-select">Choose a deck:</label>
     <select id="file-select">
-        <option value="guidelines.txt">Guidelines</option>
-        <option value="notrumpbids.txt">NoTrump Bids</option>
-        <option value="majorsuitbids.txt">Major Suit Bids</option>
-        <option value="minorsuitbids.txt">Minor Suit Bids</option>
-        <option value="2plusopenings.txt">2+-Level Opening</option>
-        <option value="artificialbids.txt">Artificial Bids</option>
-        <option value="defensivebidding.txt">Defensive Bidding</option>
-        <option value="declarerplay.txt">Declarer Play</option>
-        <option value="defensiveplay.txt">Defensive Play</option>
+      <!-- Options will be populated by app.js -->
     </select>
 
-    <!-- Text fields for flashcard content -->
     <div class="flashcard-fields">
-        <div class="flashcard-row">
-            <label>Deck:</label> <input type="text" id="deck" readonly>
-        </div>
-        <div class="flashcard-row">
-            <label>Title:</label> <input type="text" id="title" readonly>
-        </div>
-        <div class="flashcard-row">
-            <label>Question:</label> <textarea id="question" readonly></textarea>
-        </div>
-        <div class="flashcard-row">
-            <label>Answer:</label> <textarea id="answer" readonly></textarea>
-        </div>
-        <div class="flashcard-row">
-            <label>More Info:</label> <!-- Changed label from URL to More Info -->
-            <input type="text" id="url" readonly>
-        </div>
+      <div class="flashcard-row">
+        <label>Deck:</label> <input type="text" id="deck" readonly />
+      </div>
+      <div class="flashcard-row">
+        <label>Title:</label> <input type="text" id="title" readonly />
+      </div>
+      <div class="flashcard-row">
+        <label>Question:</label> <textarea id="question" readonly></textarea>
+      </div>
+      <div class="flashcard-row">
+        <label>Answer:</label> <textarea id="answer" readonly></textarea>
+      </div>
+      <div class="flashcard-row">
+        <label>More Info:</label>
+        <input type="text" id="url" readonly />
+      </div>
     </div>
 
-    <!-- Buttons for navigating the flashcards -->
     <div class="flashcard-buttons">
-        <button id="last-btn">Last</button>
-        <button id="next-btn">Next</button>
-        <button id="answer-btn">Answer</button>
+      <button id="last-btn">Last</button>
+      <button id="next-btn">Next</button>
     </div>
 
     <script src="app.js"></script>
-</body>
+  </body>
 </html>

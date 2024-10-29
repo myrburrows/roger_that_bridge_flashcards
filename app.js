@@ -1,15 +1,19 @@
 document.addEventListener('DOMContentLoaded', () => {
     let currentFileData = [];
     let currentIndex = 0;
-    let userId = null; // Store the logged-in user's ID
-    let serverAvailable = false; // Keep track of server availability
+    let userId = null;
+    let serverAvailable = false;
+
+    // Hardcoded list of flashcard file names without extensions
+    const files = ['Guidelines','NoTrump Bids','Major Suit Bids','Minor Suit Bids','2plus Openings','Artificial Bids','Defensive Bidding','Declarer Play','Defensive Play'];
 
     // Immediately check if the server is available before proceeding
     checkServerAvailability();
 
     // Initialize the flashcard app and load the first set of flashcards
     function initializeApp() {
-        fetchFile('guidelines.txt');
+        populateDropdown(); // Populate dropdown with available files
+        fetchFile('guidelines.txt'); // Load the first file (you can change this as needed)
     }
 
     // Function to check if the server is running
@@ -36,7 +40,7 @@ document.addEventListener('DOMContentLoaded', () => {
         userId = prompt('Enter your user ID:');
         
         if (userId) {
-            fetch('https://roger-that-bridge-flashcards-5bffcbb5d89a.herokuapp.com/login', {
+            fetch('https://roger-that-bridge-flashcards-5bffcbb5d89a.herokuapp.com/login', {          
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({ userId }),
@@ -44,31 +48,44 @@ document.addEventListener('DOMContentLoaded', () => {
             .then(response => response.json())
             .then(data => {
                 if (data.userId) {
-                    console.log(data.message); // "User {userId} logged in"
-                    initializeApp();  // Load flashcards and display the first card
+                    console.log(data.message);
+                    initializeApp();
                 } else {
                     console.error('Login failed');
-                    runOfflineMode();  // Fallback to offline mode
+                    runOfflineMode();
                 }
             })
             .catch(error => {
                 console.error('Login failed. Running in offline mode.', error);
-                runOfflineMode();  // Fallback to offline mode
+                runOfflineMode();
             });
         } else {
-            runOfflineMode(); // Run the app without login if user cancels prompt
+            runOfflineMode();
         }
     }
 
     // Run the app in offline mode (no server interactions)
     function runOfflineMode() {
         console.log("Running in offline mode.");
-        initializeApp(); // Load flashcards even without server interactions
+        initializeApp();
+    }
+
+    // Populate the dropdown with hardcoded file names
+    function populateDropdown() {
+        const dropdown = document.getElementById('file-select');
+        dropdown.innerHTML = ''; // Clear existing options
+
+        files.forEach(file => {
+            const option = document.createElement('option');
+            option.value = `${file.toLowerCase()}.txt`; // Set the value with the .txt extension
+            option.text = file; // Display the file name without extension
+            dropdown.add(option);
+        });
     }
 
     // Fetch the file content (flashcards)
     function fetchFile(fileName) {
-        fetch(fileName)
+        fetch(`data/${fileName}`)
             .then(response => {
                 if (!response.ok) {
                     throw new Error(`Error loading file: ${response.statusText}`);
@@ -127,37 +144,16 @@ document.addEventListener('DOMContentLoaded', () => {
         const urlField = document.getElementById('url');
 
         if (currentCard.url && currentCard.urlShort) {
-            urlField.value = currentCard.urlShort;  // Display URLshort as text
+            urlField.value = currentCard.urlShort;
             urlField.style.color = 'blue';
             urlField.style.cursor = 'pointer';
-            urlField.onclick = () => window.open(currentCard.url, '_blank');  // Open full URL when clicked
+            urlField.onclick = () => window.open(currentCard.url, '_blank');
         } else {
-            urlField.value = '';  // Clear the field if there’s no URL or URLshort
+            urlField.value = '';
             urlField.style.color = 'black';
             urlField.onclick = null;
         }
         autoExpand(document.getElementById('answer'));
-    }
-
-    // Record a user action (only if server is available)
-    function recordAction(actionType, actionValue = null) {
-        if (!userId || !serverAvailable) {
-            console.warn('Skipping action recording. Server is not available.');
-            return;
-        }
-
-        fetch('https://roger-that-bridge-flashcards-5bffcbb5d89a.herokuapp.com/recordAction', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ userId, actionType, actionValue }),
-        })
-        .then(response => response.json())
-        .then(data => {
-            console.log(data.message); // Action recorded successfully
-        })
-        .catch(error => {
-            console.error('Error recording action.', error);
-        });
     }
 
     // Clear the fields on the page
@@ -204,7 +200,8 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 
-    document.getElementById('answer-btn').addEventListener('click', () => {
+    // Add click event to display answer when clicking on the answer box
+    document.getElementById('answer').addEventListener('click', () => {
         if (currentFileData.length > 0) {
             displayAnswer();
 
