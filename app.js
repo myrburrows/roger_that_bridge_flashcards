@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Simulate user login (only if the server is running)
     function loginUser() {
-        userId = prompt('Enter your user ID:');
+        userId = prompt('Please enter your first name and last initial:');
         
         if (userId) {
             fetch('https://roger-that-bridge-flashcards-5bffcbb5d89a.herokuapp.com/login', {          
