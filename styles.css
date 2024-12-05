@@ -61,12 +61,16 @@ button {
     cursor: pointer;
 }
 
-#next-btn {
+#knew-it-btn {
     background-color: #4CAF50;
 }
 
 #last-btn {
     background-color: #FF9800;
+}
+
+#missed-it-btn {
+    background-color: #F44336;
 }
 
 button:hover {
